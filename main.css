@@ -2,6 +2,7 @@
     display: table;
     width: 100%;
     height: 100px;
+    background-image: url(ewura.JPG);
     background-size: cover;
     background-position: center;
     -webkit-box-shadow: inset 0 0 5rem rgb(0,0,0);
