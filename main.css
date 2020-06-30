@@ -1,5 +1,5 @@
 .site-wrapper {
-    display: table;
+    display: block;
     width: 100%;
     height: 100px;
     background-image: url(ewura.JPG);
