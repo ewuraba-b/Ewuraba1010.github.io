@@ -9,6 +9,12 @@
     color: #fff;
     text-shadow: 0 0 3rem #000;
     padding-top: 54px;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: initial, initial;
+    background-origin: initial, initial;
+    background-clip: initial, initial;
+    background-color: initial;
 }
 .cover-container {
     margin-right: auto;
