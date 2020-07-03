@@ -1,7 +1,7 @@
 .header-image {
     background-image: url("ewura2.JPG");
     background-color: #cccccc;
-    height: 980px;
+    height: 975px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,7 +15,7 @@
     color: white;
 }
 body {
-    background-color: rgb(158, 224, 233);
+    background-color: rgb(148, 225, 235);
     max-width: 1000px; 
     margin: auto;
     padding: 10px
