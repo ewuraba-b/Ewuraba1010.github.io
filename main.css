@@ -9,9 +9,9 @@
 }
 .header-text {
     position: absolute;
-    top: 65%;
+    top: 60%;
     left: 50%;
-    transform: translate(-65%, -50%);
+    transform: translate(-60%, -50%);
     color: black;
 }
 body {
