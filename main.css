@@ -16,8 +16,10 @@
 }
 body {
     background-color: rgb(52, 150, 163);
-    width: 70%;
-    position: center
+    width: 100%;
+	max-width: 1024px; 
+	margin-right: auto;
+	margin-left: auto;
 }
 hr {
 border-width: 5px;
