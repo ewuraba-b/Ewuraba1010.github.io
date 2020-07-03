@@ -16,6 +16,8 @@
 }
 body {
     background-color: rgb(52, 150, 163);
+    width: 70%;
+    position: center
 }
 hr {
 border-width: 5px;
