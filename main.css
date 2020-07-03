@@ -1,7 +1,7 @@
 .header-image {
     background-image: url("ewura2.JPG");
     background-color: #cccccc;
-    height: 975px;
+    height: 990px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,15 +15,15 @@
     color: white;
 }
 body {
-    background-color: rgb(148, 225, 235);
+    background-color: rgb(134, 224, 236);
     max-width: 1000px; 
     margin: auto;
     padding: 10px
 }
 hr {
-border-width: 5px;
+    border-width: 5px;
 }
 h1 {
-font-family:"Comic Sans MS", cursive, sans-serif;
-font-size: 50px;
+    font-family:"Comic Sans MS", cursive, sans-serif;
+    font-size: 50px;
 }
