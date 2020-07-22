@@ -33,7 +33,7 @@ h1 {
 .tab {
     overflow: hidden;
     border: 1px solid rgb(0, 0, 0);
-    background-color: #ecc8f5;
+    background-color: #ec9fff;
 }
   
 /* Style the buttons inside the tab */
@@ -50,12 +50,12 @@ h1 {
   
 /* Change background color of buttons on hover */
 .tab button:hover {
-    background-color: rgb(224, 224, 224);
+    background-color: #e380fc;
 }
   
 /* Create an active/current tablink class */
 .tab button.active {
-    background-color: rgb(219, 219, 219);
+    background-color: #e380fc;
 }
   
 /* Style the tab content */
