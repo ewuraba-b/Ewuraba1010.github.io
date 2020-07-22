@@ -18,9 +18,8 @@ body {
     background-color: rgb(112, 225, 240);
     max-width: 75%; 
     margin: auto;
-    padding: 3px;
-    border-left: 1px solid;
-    border-right:1px solid;
+    border-left: 3px solid;
+    border-right:3px solid;
     border-color: black;
 }
 hr {
