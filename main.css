@@ -18,7 +18,10 @@ body {
     background-color: rgb(112, 225, 240);
     max-width: 75%; 
     margin: auto;
-    padding: 5px
+    padding: 5px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
 }
 hr {
     border-width: 5px;
@@ -31,7 +34,7 @@ h1 {
 .tab {
     overflow: hidden;
     border: 1px solid rgb(0, 0, 0);
-    background-color: #eed1f5;
+    background-color: #ecc8f5;
 }
   
 /* Style the buttons inside the tab */
