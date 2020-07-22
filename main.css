@@ -20,7 +20,8 @@ body {
     margin: auto;
     padding: 5px;
     border-style: solid;
-    border-width: 3px;
+    border-left: 1px;
+    border-right:1px;
     border-color: black;
 }
 hr {
@@ -63,6 +64,5 @@ h1 {
 .tabcontent {
     display: none;
     padding: 6px 12px;
-    border: 1px solid #ccc;
     border-top: none;
 }
