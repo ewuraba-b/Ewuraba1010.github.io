@@ -29,6 +29,9 @@ h1 {
     font-family:"Comic Sans MS", cursive, sans-serif;
     font-size: 60px;
 }
+p {
+    line-height: 2 ;
+}
 /* Style the tab */
 .tab {
     overflow: hidden;
