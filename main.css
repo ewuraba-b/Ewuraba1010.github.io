@@ -23,7 +23,8 @@ body {
     border-color: black;
 }
 hr {
-    border-width: 5px;
+    border: 3px solid black;
+    /*border-width: 5px;*/
 }
 h1 {
     font-family:"Comic Sans MS", cursive, sans-serif;
