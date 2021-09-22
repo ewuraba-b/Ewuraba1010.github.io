@@ -6,6 +6,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    opacity: 0.75;
 }
 .header-text {
     position: absolute;
@@ -45,7 +46,7 @@ p {
     background-color: inherit;
     float: center;
     border: none;
-    outline: none;e
+    outline: none;
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
