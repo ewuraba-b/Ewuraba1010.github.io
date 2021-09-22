@@ -1,5 +1,5 @@
 .header-image {
-    background-image: url("ewura.JPG");
+    background-image: url("Ewuraba\ Buckle.png");
     background-color: #cccccc;
     height: 600px;
     background-position: center;
@@ -45,7 +45,7 @@ p {
     background-color: inherit;
     float: center;
     border: none;
-    outline: none;
+    outline: none;e
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
